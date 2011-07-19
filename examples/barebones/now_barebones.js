@@ -1,4 +1,4 @@
-var nowclient = require('./nowclient.js');
+var nowclient = require('nowclient');
 var now = nowclient.now;
 var socket = nowclient.socket;
 
