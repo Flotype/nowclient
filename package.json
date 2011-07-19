@@ -1,0 +1,14 @@
+{
+  "name" : "nowclient",
+  "description" : "NowJS client for node.js",
+  "version" : "0.0.1",
+  "main" : "./lib/nowclient.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "git@github.com:Flotype/nowclient.git"
+  },
+  "dependencies" : {
+    "socket.io-nodeclient": "https://github.com/ericz/socket.io-nodeclient/tarball/master"
+  },
+  "engines": { "node" : "0.4.x"}
+}
