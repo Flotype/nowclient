@@ -8,7 +8,7 @@
     "url" : "git@github.com:Flotype/nowclient.git"
   },
   "dependencies" : {
-    "socket.io-nodeclient": "https://github.com/ericz/socket.io-nodeclient/tarball/master"
+    "socket.io-nodeclient": "https://github.com/steveWang/socket.io-nodeclient/tarball/master"
   },
   "engines": { "node" : "0.4.x"}
 }
